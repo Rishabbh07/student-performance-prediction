@@ -1,8 +1,8 @@
 # Student Performance Prediction Using Machine Learning
 
 **Course:** Fundamentals of Artificial Intelligence and Machine Learning  
-**Student:** Anand Verma  
-**Registration No.:** 25MIM10130  
+**Student:** Rishabh Patel  
+**Registration No.:** 25MIM10131  
 **Branch:** CSE  
 **College:** VIT Bhopal University
 
